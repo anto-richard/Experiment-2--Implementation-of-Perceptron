@@ -156,19 +156,22 @@ plt.show()
 
 ### DF.HEAD():
 
-![pic](out1.png)
+![out1](https://user-images.githubusercontent.com/93427534/204850869-e7a5f15f-29e0-42d2-91f3-bb20552a521a.png)
 
 ### SCATTER PLOT ( SENTOSA Vs. VERSICOLOUR ):
 
-![pic](out2.png)
+![out2](https://user-images.githubusercontent.com/93427534/204850930-02eca8ee-198e-4c12-b134-8be94481a28f.png)
+
 
 ### PLOT OF EPOCHS Vs. ERRORS AFTER CLASSIFICATION:
 
-![pic](out3.png)
+![out3](https://user-images.githubusercontent.com/93427534/204850946-3c60c6d0-dd1d-4c57-9fb6-8c98d2d1b110.png)
+
 
 ### ACCURACY:
 
-![pic](out4.png)
+![out4](https://user-images.githubusercontent.com/93427534/204850974-d307270f-0db7-48b3-bc40-faa2599ece60.png)
+
 
 ## RESULT:
 
